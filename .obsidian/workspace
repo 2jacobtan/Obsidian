@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3c7184f2a15a933d",
-        "type": "split",
-        "children": [
-          {
-            "id": "da9d2cd7a15fe267",
-            "type": "leaf",
-            "dimension": 80.6949806949807,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSL (domain-specific language)/DSL exploration.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "8a248ec5f6d62528",
-            "type": "leaf",
-            "dimension": 19.305019305019304,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_meta/'.md",
-                "mode": "preview"
-              }
-            }
+        "id": "8a248ec5f6d62528",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "readme.md.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSL (domain-specific language)/DSL exploration.md",
+                "file": "readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSL (domain-specific language)/DSL exploration.md"
+                "file": "readme.md.md"
               }
             }
           }
@@ -143,8 +123,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "da9d2cd7a15fe267",
+  "active": "8a248ec5f6d62528",
   "lastOpenFiles": [
+    "Untitled.md",
+    "_meta/'.md",
     "DSL (domain-specific language)/DSL exploration.md",
     "_attachments/Pasted image 20210529035225.png",
     "DSL (domain-specific language)/Untitled.md",
@@ -152,8 +134,6 @@
     "Haskell/GHC.md",
     "DSL/Untitled.md",
     "health/general health.md",
-    "_meta/'.md",
-    "software development/complexity.md",
-    "_webpages/Complexity Has to Live Somewhere.md"
+    "software development/complexity.md"
   ]
 }
