@@ -4,12 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c3ba10c7f3e97885",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "0e2c986b65e51f9f",
+        "type": "split",
+        "children": [
+          {
+            "id": "fbe20479a41311cd",
+            "type": "leaf",
+            "dimension": 80.6949806949807,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "visualisation/GraphViz.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "da9d2cd7a15fe267",
+            "type": "leaf",
+            "dimension": 19.305019305019304,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_meta/'.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -73,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "visualisation/GraphViz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,22 +117,43 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "c6577f2b473aac0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b40a08f3b79f4200",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "visualisation/GraphViz.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c3ba10c7f3e97885",
+  "active": "fbe20479a41311cd",
   "lastOpenFiles": [
-    "test/_overview.md",
-    "test/test.md",
-    "test/test2.md",
-    "test/overview.md",
-    "test2.md",
-    "test.md",
-    "overview.md",
-    "Untitled.md"
+    "visualisation/Untitled.md",
+    "Haskell/learn.md",
+    "Haskell/Haskell Stack.md",
+    "Haskell/libraries.md",
+    "_meta/'.md",
+    "Haskell/Untitled.md",
+    "formal methods/logic gates.md",
+    "formal methods/Untitled.md",
+    "Untitled.md",
+    "tools/Git.md"
   ]
 }
