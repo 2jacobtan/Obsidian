@@ -4,6 +4,18 @@ https://ohmygit.org/
 
 ---
 
+Gitk
+https://www.atlassian.com/git/tutorials/gitk
+
+> Gitk is a graphical repository browser. It was the first of its kind. It can be thought of as a GUI wrapper for [git log](https://www.atlassian.com/git/tutorials/git-log). It is useful for exploring and visualizing the history of a repository. It’s written in tcl/tk which makes it portable across operating systems. `gitk` is maintained by Paul Mackerras as an independent project, separate from Git core. Stable versions are distributed as part of the Git suite for the convenience of end users. Gitk can be a helpful learning aid for newcomers to Git.
+
+---
+
+Merging vs. Rebasing
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+---
+
 –force considered harmful; understanding git’s –force-with-lease
 https://blog.developer.atlassian.com/force-with-lease/
 

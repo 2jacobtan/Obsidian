@@ -9,6 +9,12 @@ backup [[Petri Nets for Dynamic Event-Driven System Modeling _ Ch024.pdf]]
 
 ---
 
+Interesting example at 32m33s.
+
+https://www.youtube.com/watch?v=dUYRjsEUr1o&t=32m33s
+
+---
+
 Example
 
 [[PetriNet.png]]

@@ -60,3 +60,11 @@ by Richard Bird, University of Oxford
 https://www.cambridge.org/core/books/thinking-functionally-with-haskell/79F91D976F0C7229082325B41824EBBC
 
 https://www.cs.ox.ac.uk/publications/books/functional/
+# Advanced
+
+DEPENDENT TYPES IN HASKELL: THEORY AND PRACTICE
+Richard A. Eisenberg
+https://richarde.dev/papers/2016/thesis/eisenberg-thesis.pdf
+backup [[eisenberg-thesis.pdf]]
+
+[The beginning of this paper provides a nice introduction to Type families, Promoted datatypes, Generalised algebraic datatypes, etc.]

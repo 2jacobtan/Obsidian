@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2c986b65e51f9f",
+        "id": "3c7184f2a15a933d",
         "type": "split",
         "children": [
           {
-            "id": "fbe20479a41311cd",
+            "id": "da9d2cd7a15fe267",
             "type": "leaf",
             "dimension": 80.6949806949807,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "visualisation/GraphViz.md",
+                "file": "DSL (domain-specific language)/DSL exploration.md",
                 "mode": "preview"
               }
             }
           },
           {
-            "id": "da9d2cd7a15fe267",
+            "id": "8a248ec5f6d62528",
             "type": "leaf",
             "dimension": 19.305019305019304,
             "state": {
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visualisation/GraphViz.md",
+                "file": "DSL (domain-specific language)/DSL exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "visualisation/GraphViz.md"
+                "file": "DSL (domain-specific language)/DSL exploration.md"
               }
             }
           }
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fbe20479a41311cd",
+  "active": "da9d2cd7a15fe267",
   "lastOpenFiles": [
-    "visualisation/Untitled.md",
+    "DSL (domain-specific language)/DSL exploration.md",
+    "_attachments/Pasted image 20210529035225.png",
+    "DSL (domain-specific language)/Untitled.md",
     "Haskell/learn.md",
-    "Haskell/Haskell Stack.md",
-    "Haskell/libraries.md",
+    "Haskell/GHC.md",
+    "DSL/Untitled.md",
+    "health/general health.md",
     "_meta/'.md",
-    "Haskell/Untitled.md",
-    "formal methods/logic gates.md",
-    "formal methods/Untitled.md",
-    "Untitled.md",
-    "tools/Git.md"
+    "software development/complexity.md",
+    "_webpages/Complexity Has to Live Somewhere.md"
   ]
 }
