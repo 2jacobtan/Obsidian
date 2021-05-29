@@ -20,7 +20,7 @@ That escalated quickly.
 
 ## 100 OBSIDIAN TIPS: Beginner to Advanced in 24 Minutes | Obsidian Tutorial
 https://www.youtube.com/watch?v=wKNWMBeGCuU
-### Query blocks
+### query blocks
 https://www.youtube.com/watch?v=wKNWMBeGCuU&t=18m37s
 ```query
 tag: test

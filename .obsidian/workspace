@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "visualisation/colours.md",
-            "mode": "preview"
+            "file": "tools/Obsidian.md.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visualisation/colours.md",
+                "file": "tools/Obsidian.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "visualisation/colours.md"
+                "file": "tools/Obsidian.md.md"
               }
             }
           }
@@ -125,15 +125,15 @@
   },
   "active": "8a248ec5f6d62528",
   "lastOpenFiles": [
-    "visualisation/colours.md",
+    "tools/Obsidian.md.md",
+    "Haskell/libraries.md",
+    "Haskell/learn.md",
+    "Haskell/IDE.md",
     "_attachments/Xterm_256color_chart.svg",
+    "visualisation/colours.md",
     "tools/Vim.md",
     "_personal/Untitled.md",
     "Coq/Coq applications.md",
-    "Coq/Untitled.md",
-    "Untitled.md",
-    "_meta/'.md",
-    "DSL (domain-specific language)/DSL exploration.md",
-    "_attachments/Pasted image 20210529035225.png"
+    "Coq/Untitled.md"
   ]
 }
