@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_personal/WSL2 Ubuntu setup.md",
-            "mode": "source"
+            "file": "tools/Vim.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_personal/WSL2 Ubuntu setup.md",
+                "file": "tools/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_personal/WSL2 Ubuntu setup.md"
+                "file": "tools/Vim.md"
               }
             }
           }
@@ -125,6 +125,7 @@
   },
   "active": "8a248ec5f6d62528",
   "lastOpenFiles": [
+    "tools/Vim.md",
     "_personal/Untitled.md",
     "Coq/Coq applications.md",
     "Coq/Untitled.md",
@@ -133,7 +134,6 @@
     "DSL (domain-specific language)/DSL exploration.md",
     "_attachments/Pasted image 20210529035225.png",
     "DSL (domain-specific language)/Untitled.md",
-    "Haskell/learn.md",
-    "Haskell/GHC.md"
+    "Haskell/learn.md"
   ]
 }
