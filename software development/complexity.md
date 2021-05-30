@@ -17,3 +17,8 @@ backup [[Complexity Has to Live Somewhere]]
 > -   if your users' use cases don't map well to your simplicity, they will build shims around your tool to attain their objectives
 > 
 > This cannot be avoided. Complexity _has_ to live somewhere. It's always a part of people solving problems, whether you realize it or not.
+
+---
+
+Why code with Code Smells is harder to understand?  
+[https://www.youtube.com/watch?v=G8jX4UuDWPA](https://www.youtube.com/watch?v=G8jX4UuDWPA)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources.md",
+            "file": "_meta/'.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources.md",
+                "file": "_meta/'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources.md"
+                "file": "_meta/'.md"
               }
             }
           }
@@ -125,15 +125,15 @@
   },
   "active": "8a248ec5f6d62528",
   "lastOpenFiles": [
+    "_meta/'.md",
+    "software development/complexity.md",
+    "Coq/software foundations.md",
+    "Coq/Coq applications.md",
     "resources.md",
     "visualisation/GraphViz.md",
     "visualisation/colours.md",
     "tools/VSCode.md",
     "tools/Vim.md",
-    "tools/Slack.md",
-    "tools/Obsidian.md.md",
-    "tools/Git.md",
-    "software development/complexity.md",
-    "social/teamwork.md"
+    "tools/Slack.md"
   ]
 }
