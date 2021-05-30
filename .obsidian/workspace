@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/VSCode.md",
-            "mode": "source"
+            "file": "resources.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/VSCode.md",
+                "file": "resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/VSCode.md"
+                "file": "resources.md"
               }
             }
           }
@@ -125,15 +125,15 @@
   },
   "active": "8a248ec5f6d62528",
   "lastOpenFiles": [
+    "resources.md",
+    "visualisation/GraphViz.md",
+    "visualisation/colours.md",
     "tools/VSCode.md",
     "tools/Vim.md",
     "tools/Slack.md",
     "tools/Obsidian.md.md",
-    "Haskell/libraries.md",
-    "Haskell/learn.md",
-    "Haskell/IDE.md",
-    "_attachments/Xterm_256color_chart.svg",
-    "visualisation/colours.md",
-    "_personal/Untitled.md"
+    "tools/Git.md",
+    "software development/complexity.md",
+    "social/teamwork.md"
   ]
 }

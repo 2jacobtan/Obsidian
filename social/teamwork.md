@@ -9,7 +9,7 @@ https://twitter.com/geoffreylitt/status/1390075195436716032
 
 
 http://helpinghumansystems.com/wp-content/uploads/2014/01/Ground-Rules-for-Effective-Teams.pdf
-backup [[Ground-Rules-for-Effective-Teams.pdf]]]
+backup [[Ground-Rules-for-Effective-Teams.pdf]]
 
 > Ground Rules for Effective Teams
 > 

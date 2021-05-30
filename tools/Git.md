@@ -16,7 +16,7 @@ https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
 ---
 
-–force considered harmful; understanding git’s –force-with-lease
+--force considered harmful; understanding git’s --force-with-lease
 https://blog.developer.atlassian.com/force-with-lease/
 
 ---
