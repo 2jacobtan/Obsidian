@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_meta/'.md",
+            "file": "tools/Obsidian.md.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_meta/'.md",
+                "file": "tools/Obsidian.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_meta/'.md"
+                "file": "tools/Obsidian.md.md"
               }
             }
           }
@@ -125,6 +125,7 @@
   },
   "active": "8a248ec5f6d62528",
   "lastOpenFiles": [
+    "tools/Obsidian.md.md",
     "_meta/'.md",
     "software development/complexity.md",
     "Coq/software foundations.md",
@@ -133,7 +134,6 @@
     "visualisation/GraphViz.md",
     "visualisation/colours.md",
     "tools/VSCode.md",
-    "tools/Vim.md",
-    "tools/Slack.md"
+    "tools/Vim.md"
   ]
 }
