@@ -32,3 +32,7 @@ nvim ~/.zshrc # edit as required
 
 exec zsh
 ```
+
+```bash
+cp ~/dotfiles/.gitconfig ~/.gitconfig
+```
