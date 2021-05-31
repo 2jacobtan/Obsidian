@@ -8,4 +8,4 @@
 
 > with 20,000 contracts, even basic definitions vary a lot.
 
-—Insurance Industry
+—insurance industry
