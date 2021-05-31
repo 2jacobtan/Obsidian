@@ -7,11 +7,16 @@
         "id": "e239fbe4fe0efb99",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
             "file": "DSL (domain-specific language)/existing DSLs.md",
             "mode": "preview"
           }
+=======
+          "type": "graph",
+          "state": {}
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -76,7 +81,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "DSL (domain-specific language)/existing DSLs.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +119,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "DSL (domain-specific language)/existing DSLs.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ],
