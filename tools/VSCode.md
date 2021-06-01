@@ -17,6 +17,9 @@ Rainbow Brackets
 Rainbow Highlighter
 - https://marketplace.visualstudio.com/items?itemName=cobaltblu27.rainbow-highlighter
 
+Indent Rainbow
+- https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+
 Mark lines and jump to them
 - https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
 

@@ -54,3 +54,9 @@ snth
  
 [^1]: footnote 1
 [^fn2]: footnote 2
+
+---
+
+## theme
+
+Obsidian gruvbox
