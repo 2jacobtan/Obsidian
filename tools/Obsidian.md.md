@@ -30,6 +30,11 @@ That escalated quickly.
 
 ---
 
+
+## misc
+
+[How to open a local graph view pane on the right sidebar?](https://forum.obsidian.md/t/how-to-open-a-local-graph-view-pane-on-the-right-sidebar/7190)
+
 ## 100 OBSIDIAN TIPS: Beginner to Advanced in 24 Minutes | Obsidian Tutorial
 https://www.youtube.com/watch?v=wKNWMBeGCuU
 ### query blocks
@@ -67,3 +72,5 @@ snth
 [^fn2]: footnote 2
 
 ---
+
+
