@@ -1,3 +1,13 @@
+## protip
+
+`ctrl + v` (paste) and `ctrl + shift + v` (paste without formatting) are both useful 
+
+## theme
+
+Obsidian gruvbox (my favourite theme)
+
+---
+
 ## Linking Your Thinking (YouTube channel)
 
 That escalated quickly.
@@ -41,6 +51,7 @@ graph TD
 
 ### block reference
 https://www.youtube.com/watch?v=wKNWMBeGCuU&t=17m40s
+
 [[Obsidian.md#^block-e67fba]]
 
 a block (separated by empty lines) ^block-e67fba
@@ -56,7 +67,3 @@ snth
 [^fn2]: footnote 2
 
 ---
-
-## theme
-
-Obsidian gruvbox
