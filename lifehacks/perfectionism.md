@@ -7,3 +7,5 @@ https://twitter.com/visakanv/status/1323920770997760000
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BtPeF2Vfj_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+cf. [[psychological health#^4bb565]]

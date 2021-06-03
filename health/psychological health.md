@@ -12,6 +12,6 @@ backup [[The Psychology of Self-Deception]]
 
 ---
 
-[Mental Health Bootcamp | Webinar Series](https://www.youtube.com/playlist?list=PLYxtGyYUCbEHbXzu15FuLuZ6vdVaIAwnL)
+[Mental Health Bootcamp | Webinar Series](https://www.youtube.com/playlist?list=PLYxtGyYUCbEHbXzu15FuLuZ6vdVaIAwnL) ^4bb565
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2tGZA-F1_n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
