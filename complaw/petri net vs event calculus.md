@@ -1,6 +1,8 @@
 #SMT, [[SMT (satisfiability modulo theories)]]
 #event_calculus
+[[petri nets]]
 
+\
 I think graph-based formats might be key to human-friendly UI/UX (visualisation and interaction). E.g. \[insurance company\] used railroad diagrams to make it easy for non-technical staff to build a contract.
 
 ---
