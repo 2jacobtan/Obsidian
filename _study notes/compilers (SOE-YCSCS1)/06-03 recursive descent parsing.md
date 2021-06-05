@@ -15,3 +15,7 @@ S' &\rightarrow \alpha S'\ |\ \varepsilon
 
 \
 (see Dragon Book for general algorithm)
+
+---
+
+Also, the "simple" algorithm requires left-factoring to work properly.
