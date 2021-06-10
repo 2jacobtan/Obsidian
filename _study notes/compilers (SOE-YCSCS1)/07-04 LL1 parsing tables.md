@@ -1,5 +1,5 @@
 
-G is not LL(1) if and only if (necessary and sufficient condition):
+G is *not* LL(1) if and only if (necessary and sufficient condition):
 - any entry is multiply defined (in the parsing table)
 
 \
