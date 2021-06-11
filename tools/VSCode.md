@@ -1,8 +1,19 @@
 ## Command line
 `code --diff file1.cs file2.cs`
 
+`code -d file1.cs file2.cs` (shorter)
+
+```bash
+git config --global diff.tool vscode
+git config --global difftool.vscode.cmd 'code --wait --diff "$LOCAL" "$REMOTE"'
+```
+
+`git difftool` (try in a git repo)
+
 https://www.meziantou.net/comparing-files-using-visual-studio-code.htm
 backup [[Comparing files using Visual Studio Code - Gérald Barré]]
+
+https://code.visualstudio.com/docs/editor/command-line
 
 ## Themes
 
