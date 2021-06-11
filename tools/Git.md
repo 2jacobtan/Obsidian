@@ -9,6 +9,8 @@ https://www.atlassian.com/git/tutorials/gitk
 
 > Gitk is a graphical repository browser. It was the first of its kind. It can be thought of as a GUI wrapper for [git log](https://www.atlassian.com/git/tutorials/git-log). It is useful for exploring and visualizing the history of a repository. It’s written in tcl/tk which makes it portable across operating systems. `gitk` is maintained by Paul Mackerras as an independent project, separate from Git core. Stable versions are distributed as part of the Git suite for the convenience of end users. Gitk can be a helpful learning aid for newcomers to Git.
 
+On Ubuntu: `sudo apt install gitk`
+
 ---
 
 Merging vs. Rebasing
