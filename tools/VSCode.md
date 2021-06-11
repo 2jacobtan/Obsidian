@@ -1,5 +1,6 @@
 ## Command line
 `code --diff file1.cs file2.cs`
+
 https://www.meziantou.net/comparing-files-using-visual-studio-code.htm
 backup [[Comparing files using Visual Studio Code - Gérald Barré]]
 
