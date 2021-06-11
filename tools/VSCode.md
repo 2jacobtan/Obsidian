@@ -3,12 +3,23 @@
 
 `code -d file1.cs file2.cs` (shorter)
 
+---
+
 ```bash
 git config --global diff.tool vscode
 git config --global difftool.vscode.cmd 'code --wait --diff "$LOCAL" "$REMOTE"'
 ```
 
+^71e330
+
 `git difftool` (try in a git repo)
+
+```bash
+git config \--global merge.tool vscode
+git config \--global mergetool.vscode.cmd 'code --wait "$MERGED"'
+```
+
+`git mergetool` (try in a git repo)
 
 https://www.meziantou.net/comparing-files-using-visual-studio-code.htm
 backup [[Comparing files using Visual Studio Code - Gérald Barré]]

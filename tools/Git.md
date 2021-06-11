@@ -13,6 +13,10 @@ On Ubuntu: `sudo apt install gitk`
 
 ---
 
+use VSCode with Git: [[VSCode#^71e330]]
+
+---
+
 Merging vs. Rebasing
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 
