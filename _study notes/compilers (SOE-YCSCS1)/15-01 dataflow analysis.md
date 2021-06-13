@@ -10,6 +10,16 @@ backup [[Static Analysis _ TDDC90_static_I_handout.pdf]]
 >  
 > - An algorithm is complete in the case where each time it is given a program that is safe wrt. some errors, then it does report it to be safe wrt. those errors
 
+sound analysis -> over-approximation
+  - if over-approximation (of possible states) has no error state, then program has no possible error
+  - error detection has no false negative
+
+complete analysis -> under-approximation
+  - if program has no possible error, then under-approximation (of possible states) has no error state
+  - error detection has no false positive
+
+Notice the above if-then statements are converse.
+
 ---
 
 https://en.wikipedia.org/wiki/Type_system
