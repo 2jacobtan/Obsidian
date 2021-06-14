@@ -40,5 +40,10 @@ On the "Extra settings" page of the wizard, tick "Disable access control".
 
 ![](https://i.stack.imgur.com/6C7AT.png)
 
+
+\
 For more info:
+
 https://techcommunity.microsoft.com/t5/windows-dev-appconsult/running-wsl-gui-apps-on-windows-10/ba-p/1493242
+
+https://itnext.io/using-windows-10-as-a-desktop-environment-for-linux-7b2d8239f2f1
