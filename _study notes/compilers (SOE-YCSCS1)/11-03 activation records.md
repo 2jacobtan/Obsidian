@@ -1,2 +1,2 @@
 
-activation record (AR) === frame
+activation record (AR) === stack frame
