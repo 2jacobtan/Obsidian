@@ -54,11 +54,17 @@ Mark lines and jump to them
 Draw.io Integration
 - https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 
+Font Switcher
+- https://marketplace.visualstudio.com/items?itemName=evan-buss.font-switcher
+
 GitLens
 - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
-Font Switcher
-- https://marketplace.visualstudio.com/items?itemName=evan-buss.font-switcher
+Remote Repositories (GitHub)
+- https://marketplace.visualstudio.com/items?itemName=github.remotehub
+
+GitHub Pull Requests and Issues
+- https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
 
 ## Misc
 
