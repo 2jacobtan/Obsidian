@@ -34,7 +34,7 @@ Cf. https://stackoverflow.com/questions/61110603/how-to-set-up-working-x11-forwa
 
 Restart shell by `exec zsh` (for Zsh users; `exec bash` for Bash users). Or just open a new terminal.
 
-On Windows: open `XLaunch` .
+On Windows: open `XLaunch` (from the VcXsrv installation).
 
 On the "Extra settings" page of the wizard, tick "Disable access control".
 
