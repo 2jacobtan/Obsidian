@@ -1,7 +1,7 @@
 
 i.e. garbage collection
-
 <br>
+
 - mark and sweep
 
 - stop and copy

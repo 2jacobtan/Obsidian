@@ -129,3 +129,7 @@ MODEL:
 BINDINGS:
 
 ```
+
+---
+
+stable models ⊆ least models ⊆ (all possible) models
