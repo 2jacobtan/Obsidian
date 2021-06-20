@@ -11,3 +11,12 @@ https://downloads.haskell.org/~ghc/6.2/docs/html/users_guide/version-numbering.h
 Simon Peyton Jones how GHC type inference engine actually works
 https://www.youtube.com/watch?v=x3evzO8O9e8
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x3evzO8O9e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+> # The Glasgow Haskell Compiler
+> 
+> [Simon Marlow](https://aosabook.org/en/intro2.html#marlow-simon) and [Simon Peyton-Jones](https://aosabook.org/en/intro2.html#peyton-jones-simon)
+
+https://aosabook.org/en/ghc.html
+backup [[The Architecture of Open Source Applications (Volume 2) The Glasgow Haskell Compiler]]
