@@ -6,3 +6,4 @@ https://logic.ly/
 > -   Take control of **debugging** by pausing the simulation and watching the signal propagate as you advance step-by-step.
 > -   Don't worry about **multiple platforms** on student computers. Install on both Windows and macOS.
 
+---
