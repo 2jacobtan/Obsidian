@@ -1,5 +1,5 @@
 ---
-created: 2021-06-22T00:40:08 (UTC +08:00)
+created: 2021-06-23T01:30:27 (UTC +08:00)
 tags: []
 source: https://stackoverflow.com/questions/52367608/differences-gadt-data-family-data-family-that-is-a-gadt
 author: AntC
