@@ -3,7 +3,9 @@
 
 ---
 
-https://github.com/mintty/wsltty
+https://github.com/microsoft/terminal
+
+(obsolete) https://github.com/mintty/wsltty
 
 ---
 
