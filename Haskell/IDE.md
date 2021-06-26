@@ -28,3 +28,10 @@ https://hackage.haskell.org/package/retrie
 > This package provides a command-line tool (`retrie`) and a library ([Retrie](https://hackage.haskell.org/package/retrie-1.0.0.0/docs/Retrie.html)) for making equational edits to Haskell code.
 
 ---
+
+IDE errors like "cannot find module" are often solved by having a `hie.yaml` file in the base folder, containing:
+
+```yaml
+cradle:
+  stack:
+```
