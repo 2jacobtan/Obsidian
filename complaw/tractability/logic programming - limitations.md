@@ -34,10 +34,10 @@ But functional programming is perfectly capable of doing the same, and much more
 
 E.g. https://www.cs.yale.edu/homes/piskac/papers/2019HallahanETALquasiquoter.pdf
 
-There's symbolic execution, SMT solving, fuzzing, output a program trace for explainability, etc., all kinds of powerful formal methods readily available.
+There's symbolic execution, SMT solving, fuzzing, output a program trace for explainability, etc., all kinds of formal methods readily available.
 
 ---
 
 As mentioned elsewhere, logic programming has complicated and unintuitive semantics.
 
-Meanwhile, functional programming has clear semantics that are easy to understand and also transpile to other programming languages.
+Meanwhile, functional programming has clear semantics that is easy to understand and also transpile to other programming languages.
