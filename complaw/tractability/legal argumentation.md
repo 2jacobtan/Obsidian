@@ -7,7 +7,7 @@ The real world is complex and messy. So that, often (especially the cases that g
 
 The rules can be deliberately vague, and be more like general principles to be weighed against each other (not clear-cut rules).
 
-It takes human minds with their comprehensive, understanding of the real world, to argue for their preferred "reasonable" interpretations.
+It takes human minds with their comprehensive understanding of the real world, to argue for their preferred "reasonable" interpretations.
 
 The law is also continually changing, and lawyers are the ones closely following the changes and contemplating the potential consequences.
 
