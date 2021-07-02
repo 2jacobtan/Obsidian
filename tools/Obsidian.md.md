@@ -1,3 +1,7 @@
+https://obsidian.md/ is a great note-taking / knowledge management tool.
+
+It also has a built-in Vim mode.
+
 ## protip
 
 `ctrl + v` (paste) and `ctrl + shift + v` (paste without formatting) are both useful 
