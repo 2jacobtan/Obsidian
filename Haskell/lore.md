@@ -11,3 +11,12 @@ https://www.reddit.com/r/prolog/comments/l55okj/would_a_type_system_be_superfluo
 > I know that languages like Mercury, [Curry](https://curry.pages.ps.informatik.uni-kiel.de/curry-lang.org/) and others have been trying to combine type and FP with LP, but I keep going back to this comment from Tikhon Jelvis [on Quora](https://www.quora.com/What-do-Lisp-Haskell-programmers-think-about-Prolog)
 > 
 > > Haskell programmers think about Prolog a lot whether they realize it or not: **the type class system is like a** _**very**_ **limited subset of Prolog**. Type-level programming in Haskell is an exercise in logic programming.
+
+---
+
+https://www.quora.com/What-are-the-worst-parts-about-using-Haskell/answer/Tikhon-Jelvis
+
+https://www.quora.com/Do-you-agree-with-John-Backus-in-Can-Programming-Be-Liberated-from-the-Von-Neumann-Style-regarding-functional-style-programming/answer/Tikhon-Jelvis
+
+---
+
