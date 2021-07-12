@@ -49,3 +49,7 @@ For more info:
 https://techcommunity.microsoft.com/t5/windows-dev-appconsult/running-wsl-gui-apps-on-windows-10/ba-p/1493242
 
 https://itnext.io/using-windows-10-as-a-desktop-environment-for-linux-7b2d8239f2f1
+
+---
+
+`wsl --shutdown` in Windows PowerShell, to shutdown WSL2 when it bugs up
