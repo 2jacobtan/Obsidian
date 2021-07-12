@@ -66,6 +66,8 @@ Remote Repositories (GitHub)
 GitHub Pull Requests and Issues
 - https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
 
+Unicode Latex
+- https://marketplace.visualstudio.com/items?itemName=oijaz.unicode-latex
 ## Misc
 
 https://editorconfig.org/
