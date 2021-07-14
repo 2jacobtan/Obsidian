@@ -5,6 +5,11 @@ https://www.coursera.org/learn/learning-how-to-learn
 
 ---
 
+https://mindfulbydesign.com/not-all-effort-is-created-equal/
+backup [[Not all Effort is Created Equal - James Anderson]]
+
+---
+
 https://twitter.com/josecalderon/status/1404497992904810503
 
 > None of my ideas are unique or special. It’s all drawn straight from musical practices/techniques.
