@@ -20,3 +20,8 @@ https://www.youtube.com/watch?v=x3evzO8O9e8
 
 https://aosabook.org/en/ghc.html
 backup [[The Architecture of Open Source Applications (Volume 2) The Glasgow Haskell Compiler]]
+
+---
+
+Libraries included with GHC installation
+https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html

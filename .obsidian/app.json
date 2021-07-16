@@ -1,0 +1,26 @@
+{
+  "spellcheck": true,
+  "vimMode": true,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "unsorted",
+  "promptDelete": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "_attachments",
+  "spellcheckDictionary": [
+    "favourite",
+    "compositionality",
+    "Combinator",
+    "automata",
+    "lexing",
+    "optimisation",
+    "colouring",
+    "liveness",
+    "behaviours"
+  ],
+  "newLinkFormat": "shortest"
+}

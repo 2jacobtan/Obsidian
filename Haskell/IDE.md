@@ -6,6 +6,18 @@ This extension adds language support for [Haskell](https://haskell.org/), powere
 
 ---
 
+https://github.com/ndmitchell/hlint
+
+> ### Suggested usage
+> 
+> HLint usage tends to proceed in three distinct phases:
+> 
+> 1.  Initially, run `hlint . --report` to generate `report.html` containing a list of all issues HLint has found. Fix those you think are worth fixing and keep repeating.
+> 2.  Once you are happy, run `hlint . --default > .hlint.yaml`, which will generate a settings file ignoring all the hints currently outstanding. Over time you may wish to edit the list.
+> 3.  For larger projects, add [custom hints or rules](https://github.com/ndmitchell/hlint/blob/master/README.md#customizing-the-hints).
+
+---
+
 Auto generate a stack or cabal multi component hie.yaml file
 https://github.com/Avi-D-coder/implicit-hie
 
@@ -35,3 +47,12 @@ IDE errors like "cannot find module" are often solved by having a `hie.yaml` fil
 cradle:
   stack:
 ```
+
+---
+
+https://marketplace.visualstudio.com/items?itemName=haskell.haskell
+> ## Requirements
+> 
+> -   For standalone `.hs`/`.lhs` files, [ghc](https://www.haskell.org/ghc/) must be installed and on the PATH. The easiest way to install it is with [ghcup](https://www.haskell.org/ghcup/) or [Chocolatey](https://www.haskell.org/platform/windows.html) on Windows.
+> -   For Cabal based projects, both ghc and [cabal-install](https://www.haskell.org/cabal/) must be installed and on the PATH. It can also be installed with [ghcup](https://www.haskell.org/ghcup/) or [Chocolatey](https://www.haskell.org/platform/windows.html) on Windows.
+> -   For Stack based projects, [stack](http://haskellstack.org/) must be installed and on the PATH.
