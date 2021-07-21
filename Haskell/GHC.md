@@ -25,3 +25,22 @@ backup [[The Architecture of Open Source Applications (Volume 2) The Glasgow Has
 
 Libraries included with GHC installation
 https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html
+
+---
+
+If you see this warning:
+```
+<no location info>: warning: [-Wmissed-extra-shared-lib]
+    libtinfo.so: cannot open shared object file: No such file or directory
+    It's OK if you don't want to use symbols from it directly.
+    (the package DLL is loaded by the system linker
+     which manages dependencies by itself).
+ ```
+
+https://github-wiki-see.page/m/carlosgruiz-dev/carlosgruiz-dev/wiki/Haskell:-error-with-libtinfo.so-while-building-with-stack
+
+Run this command (on Ubuntu or WSL2):
+
+```sh
+ sudo apt install libtinfo-dev
+```
