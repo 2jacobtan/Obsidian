@@ -11,6 +11,7 @@ add a '~' to the end of wsltty's shortcut, so that it opens Ubuntu in home folde
 apt install zsh
 ```
 
+Oh My ZSH
 https://github.com/ohmyzsh/ohmyzsh
 
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
