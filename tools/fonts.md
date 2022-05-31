@@ -20,3 +20,9 @@ Comic Sans lookalike (wtf)
 
 https://github.com/tonsky/FiraCode (ligatures)
 popular af
+
+---
+
+current font selection
+
+![[Pasted image 20220531155641.png]]
